@@ -2,4 +2,4 @@
 
 This project has been left alone without further improvements. 
 
-uwpparse.rb is the main file
+uwpparse.rb is the main file. Directions are in the remarks.
